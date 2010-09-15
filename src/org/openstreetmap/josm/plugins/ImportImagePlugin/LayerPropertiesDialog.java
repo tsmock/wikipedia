@@ -118,9 +118,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes mainPanel	
-     * 	
-     * @return javax.swing.JPanel	
+     * This method initializes mainPanel    
+     *  
+     * @return javax.swing.JPanel   
      */
     private JPanel getMainPanel() {
         if (mainPanel == null) {
@@ -133,9 +133,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes jPanel	
-     * 	
-     * @return javax.swing.JPanel	
+     * This method initializes jPanel   
+     *  
+     * @return javax.swing.JPanel   
      */
     private JPanel getJPanel() {
         if (jPanel == null) {
@@ -154,9 +154,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes buttonPanel	
-     * 	
-     * @return javax.swing.JPanel	
+     * This method initializes buttonPanel  
+     *  
+     * @return javax.swing.JPanel   
      */
     private JPanel getButtonPanel() {
         if (buttonPanel == null) {
@@ -169,9 +169,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes jTabbedPane	
-     * 	
-     * @return javax.swing.JTabbedPane	
+     * This method initializes jTabbedPane  
+     *  
+     * @return javax.swing.JTabbedPane  
      */
     private JTabbedPane getJTabbedPane() {
         if (jTabbedPane == null) {
@@ -183,9 +183,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes infoPanel	
-     * 	
-     * @return javax.swing.JPanel	
+     * This method initializes infoPanel    
+     *  
+     * @return javax.swing.JPanel   
      */
     private JPanel getInfoPanel() {
         if (infoPanel == null) {
@@ -280,9 +280,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes crsPanel	
-     * 	
-     * @return javax.swing.JPanel	
+     * This method initializes crsPanel 
+     *  
+     * @return javax.swing.JPanel   
      */
     private JPanel getCrsPanel() {
         if (crsPanel == null) {
@@ -338,9 +338,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes okButton	
-     * 	
-     * @return javax.swing.JButton	
+     * This method initializes okButton 
+     *  
+     * @return javax.swing.JButton  
      */
     private JButton getOkButton() {
         if (okButton == null) {
@@ -359,9 +359,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes searchField	
-     * 	
-     * @return javax.swing.JTextField	
+     * This method initializes searchField  
+     *  
+     * @return javax.swing.JTextField   
      */
     private JTextField getSearchField() {
         if (searchField == null) {
@@ -389,9 +389,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes crsListScrollPane	
-     * 	
-     * @return javax.swing.JScrollPane	
+     * This method initializes crsListScrollPane    
+     *  
+     * @return javax.swing.JScrollPane  
      */
     private JScrollPane getCrsListScrollPane() {
         if (crsListScrollPane == null) {
@@ -403,9 +403,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes crsJList	
-     * 	
-     * @return javax.swing.JList	
+     * This method initializes crsJList 
+     *  
+     * @return javax.swing.JList    
      */
     private JList getCrsJList() {
         if (crsJList == null) {
@@ -416,9 +416,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes useDefaultCRSButton	
-     * 	
-     * @return javax.swing.JButton	
+     * This method initializes useDefaultCRSButton  
+     *  
+     * @return javax.swing.JButton  
      */
     private JButton getUseDefaultCRSButton() {
         if (useDefaultCRSButton == null) {
@@ -458,9 +458,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes applySelectedCRSButton	
-     * 	
-     * @return javax.swing.JButton	
+     * This method initializes applySelectedCRSButton   
+     *  
+     * @return javax.swing.JButton  
      */
     private JButton getApplySelectedCRSButton() {
         if (applySelectedCRSButton == null) {
@@ -505,9 +505,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
 
     /**
-     * This method initializes setSelectedCRSAsDefaultButton	
-     * 	
-     * @return javax.swing.JButton	
+     * This method initializes setSelectedCRSAsDefaultButton    
+     *  
+     * @return javax.swing.JButton  
      */
     private JButton getSetSelectedCRSAsDefaultButton() {
         if (setSelectedCRSAsDefaultButton == null) {
@@ -556,9 +556,9 @@ public class LayerPropertiesDialog extends JFrame{
     }
     
     /**
-     * This method initializes eastingFirstCheckBox	
-     * 	
-     * @return javax.swing.JCheckBox	
+     * This method initializes eastingFirstCheckBox 
+     *  
+     * @return javax.swing.JCheckBox    
      */
     private JCheckBox getEastingFirstCheckBox() {
         if (eastingFirstCheckBox == null) {

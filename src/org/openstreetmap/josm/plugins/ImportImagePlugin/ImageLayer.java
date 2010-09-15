@@ -39,7 +39,7 @@ import org.openstreetmap.josm.gui.dialogs.LayerListPopup;
 import org.openstreetmap.josm.gui.layer.Layer;
 
 /**
- * 	Layer which contains spatial referenced image data.
+ *  Layer which contains spatial referenced image data.
  * 
  * @author Christoph Beekmans, Fabian Kowitz, Anna Robaszkiewicz, Oliver Kuhn, Martin Ulitzny
  *
@@ -146,8 +146,8 @@ public class ImageLayer extends Layer {
 
         // Refresh
         // Main.map.mapView.repaint();
-//		PlanarImage image = (PlanarImage) coverage.getRenderedImage();
-//		logger.info("Color Model: " + coverage.getRenderedImage().getColorModel());
+//      PlanarImage image = (PlanarImage) coverage.getRenderedImage();
+//      logger.info("Color Model: " + coverage.getRenderedImage().getColorModel());
         ImageWorker worker = new ImageWorker(coverage.getRenderedImage());
 
         return worker.getBufferedImage();

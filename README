@@ -1,11 +1,9 @@
-README 
-======
+JOSM Wikipedia Plugin 
+=====================
 
-Readme for your plugin 
+This plugin simplifys linking OSM objects to Wikipedia articles.
 
-    * Plugin author and contact email address.
-    
-    * The license for your plugin source code. If you have no special preferences, 
-      you can pick the license that is used for JOSM ("GPL v2 or later").
-      
-    * Notes for future developers, if needed.
+Author: Simon Legner (simon04)
+
+License: GPL v2 (as JOSM)
+

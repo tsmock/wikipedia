@@ -115,7 +115,7 @@ public final class WikipediaApp {
                 .append("&format=xml")
                 .append("&gslimit=500")
                 .append("&gsbbox=")
-                .append(STRING_URI_PIPE).append(max.lat()).append(STRING_URI_PIPE).append(min.lon())
+                .append(max.lat()).append(STRING_URI_PIPE).append(min.lon())
                 .append(STRING_URI_PIPE).append(min.lat()).append(STRING_URI_PIPE).append(max.lon())
                 .toString();
             // parse XML document
